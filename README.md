@@ -277,6 +277,10 @@ Los scripts proporcionan información detallada durante la ejecución para facil
 
 Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
+## 📚 Documentación Adicional
+
+- [README_SCRIPTS.md](README_SCRIPTS.md) - Documentación técnica detallada de cada script
+
 ---
 
 **🔧 Desarrollado para automatizar y simplificar las operaciones de OpenShift** 🚀

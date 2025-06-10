@@ -1,8 +1,22 @@
+# 📋 Scripts Documentation Reference
+
+> **Nota**: La documentación principal y completa se encuentra en [README.md](README.md).
+
+Este archivo mantiene la documentación detallada específica de los scripts para referencia técnica.
+
+---
+
+## Referencia Rápida de Scripts
+
+Para la documentación completa con diagramas y guías de instalación, consulta el [README principal](README.md).
+
 # Acceso directo a los scripts de PowerShell
+
 PONER LA EJECUCION DEL SCRIPT EN EL DESTINO DE UN ACCESO DIRECTO PASANDOLE LOS PARAMETROS OPCIONALES TALES COMO	EL USUARIO Y LA RUTA DE EJECUCION DEL SCRIPT
-````POWERSHELL
+
+```powershell
 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File "RUTAABSOLUTA_DESCOMPRIMIDO\ose_logs.ps1" -oseRuntimeFolder "RUTAABSOLUTA_DESCOMPRIMIDO" -user "hmaja9q"
-````
+```
 
 # PowerShell Script: download_libs.ps1 (se requiere	ejecutar antes	de los otros dos)
 
